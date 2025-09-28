@@ -36,5 +36,3 @@ See `firewall-rules.txt` for example output.
 - Example: blocked insecure Telnet (23) but kept normal traffic allowed.  
 - This ensures better security by controlling network access.
 
-## Screenshots
-Located in `/windows/screenshots/`.
